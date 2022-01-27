@@ -1,0 +1,14 @@
+{
+  "name": "first_site",
+  "version": "1.0.0",
+  "description": "Hello World! This is where my web development journey starts in earnest. #50dayschallenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Moiseyev",
+  "license": "ISC",
+  "dependencies": {
+    "left-pad": "^1.3.0"
+  }
+}
